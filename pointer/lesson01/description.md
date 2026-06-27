@@ -4,7 +4,7 @@
 - アドレス演算子
 
 <details>
-<summary><b>src/index.js</b> (クリックでコードを展開)</summary>
+<summary><b>list1-001.c</b> (クリックでコードを展開)</summary>
 
 ```c
 #include<stdio.h>                                                                                                                                                                     
@@ -17,5 +17,7 @@ int main(void){
     return(0);                                                                                                                                                                        
 }        
 ```
+
+</details>
 
 ### 関数呼び出しとpointer
