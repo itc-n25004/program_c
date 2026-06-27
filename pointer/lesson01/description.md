@@ -2,9 +2,14 @@
 ### pointerとは
 - オブジェクトとアドレス
 - アドレス演算子
+
+<details>
+<summary><b>src/index.js</b> (クリックでコードを展開)</summary>
+
 ```c
 #include<stdio.h>                                                                                                                                                                     
-int main(void){                                                                                                                                                                       int nx = 15;                                                                                                                                                                      
+int main(void){                                                                                                                                                                       
+    int nx = 15; 
     int ny = 73;                                                                                                                                                                      
     printf("nyの値=%d \n",ny);                                                                                                                                                        
     printf("nxのアドレス= %p \n " , &nx);                                                                                                                                             
