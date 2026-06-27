@@ -4,7 +4,7 @@
 - アドレス演算子
 
 <details>
-<summary><b>[list1-001](./source_code/list1-001.c)</b> (クリックでコードを展開)</summary>
+<summary><a href=./source_code/list1-001.c<b>list1-001></b> (クリックでコードを展開)</summary>
 
 ```c
 #include<stdio.h>                                                                                                                                                                     
