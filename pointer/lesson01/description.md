@@ -2,5 +2,5 @@
 ### pointerとは
 - オブジェクトとアドレス
 - アドレス演算子
-[list1-001.c](./source_code/list1-001.c)
+1. [list1-001.c](./source_code/list1-001.c)
 ### 関数呼び出しとpointer
